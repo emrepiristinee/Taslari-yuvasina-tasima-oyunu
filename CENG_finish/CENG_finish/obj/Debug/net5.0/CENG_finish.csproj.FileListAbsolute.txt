@@ -1,0 +1,16 @@
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\CENG_finish.exe
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\CENG_finish.deps.json
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\CENG_finish.runtimeconfig.json
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\CENG_finish.runtimeconfig.dev.json
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\CENG_finish.dll
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\ref\CENG_finish.dll
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\bin\Debug\net5.0\CENG_finish.pdb
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.csproj.AssemblyReference.cache
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.AssemblyInfoInputs.cache
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.AssemblyInfo.cs
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.csproj.CoreCompileInputs.cache
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.dll
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\ref\CENG_finish.dll
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.pdb
+C:\Users\emret\source\repos\CENG_finish\CENG_finish\obj\Debug\net5.0\CENG_finish.genruntimeconfig.cache
